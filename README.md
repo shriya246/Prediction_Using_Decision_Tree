@@ -24,12 +24,14 @@ Using supervised machine learning, this notebook:
 ```bash
 git clone https://github.com/your-username/decision-tree-prediction.git
 cd decision-tree-prediction
+```
 
-2. Install dependencies
+### 2. Install dependencies
 ```bash
 pip install -r requirements.txt
+```
 
-3.📁 Project Structure
+### 3.📁 Project Structure
 graphql
 .
 ├── data/                 # Optional: CSV input data
@@ -39,7 +41,7 @@ graphql
 └── README.md
 
 
-📜 License
+### 📜 License
 This project is open-source and available under the MIT License.
 
 
